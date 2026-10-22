@@ -1,0 +1,2 @@
+# This project uses .eslintrc.json, while ESLint 9 defaults to flat config.
+ESLINT_USE_FLAT_CONFIG=false ./node_modules/.bin/lint-staged
